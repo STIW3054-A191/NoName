@@ -5,7 +5,8 @@ Group Member:
 2. Norhalimah binti Mohamad Ramli (255227)
 3. Nurhana Binti Abd Wahab(246210)
 4. Siti Najihah binti Mohamad Fauzi (247991)
-5. 
+5. Nur Athirah bt Roslan (256510)
+
 
 ## INTRODUCTION
 You are required to develop a real-time system using the Java programming language (Maven). The system should be able to:

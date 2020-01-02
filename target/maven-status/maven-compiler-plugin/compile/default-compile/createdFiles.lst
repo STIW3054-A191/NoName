@@ -1,5 +1,7 @@
+Compile.class
 ListLink.class
 Main.class
+Compile$GenericExtFilter.class
 PatternLink.class
 ReportAsg.class
 ListStudents.class

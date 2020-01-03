@@ -2,33 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/243147-STIW3054-A191-Assignment1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/249879-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/250615-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/251230-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/252709-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/253288-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/253814-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/253881-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/254251-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/254423-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/254772-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/255101-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/255108-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/255227-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/255312-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/255541-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/256510-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/256549-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/256599-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/256609-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/2566432-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/256750-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259132-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259187-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259296-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259383-STIW3054-A191-A1-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259501-STIW3054-A191-A1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src/repo/259521-STIW3054-A191-A1" vcs="Git" />
   </component>
 </project>

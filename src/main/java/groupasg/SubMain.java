@@ -33,15 +33,16 @@ public class SubMain extends Thread
                             }}
                         RepoDw repoDw = new RepoDw(theLink);
                         repoDw.RepoDownload(theLink);
+                        total = repoDw.getCount();
                         // System.out.println(total+" "+ matric +" " +theLink);
                         //groupasg.ListLink l = new groupasg.ListLink(theLink, matric);
                         ll.keepLink(matric, theLink);
-                        total++;
+                        //total++;
                     }
                 }
                 Thread.sleep(1000);
                 //ll.StudentLink();
-                 System.out.println("Total Assignment = " + (total-1));
+               //System.out.println(total);
 
             } catch (Exception e) {
                 e.printStackTrace( );

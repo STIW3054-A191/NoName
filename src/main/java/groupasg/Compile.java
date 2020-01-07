@@ -5,13 +5,17 @@ import java.util.concurrent.locks.ReentrantLock;
 import java.io.*;
 public class Compile extends Thread
 {
+    private static String filen;
     // create a file that is really a directory
-    static File aDirectory = new File("C:\\Users\\HALIMAH\\IdeaProjects\\GroupAsg\\src\\repo");
     static final String filename= "pom.xml";
     private static ReentrantLock lock = new ReentrantLock();
     static Compile t1 = new Compile();
+
+
     public static void main(String[] args)
     {
+
+        File aDirectory = new File("C:\\Users\\HALIMAH\\IdeaProjects\\GroupAsg\\src\\repo");
         // get a listing of all files in the directory
         String[] filesInDir = aDirectory.list();
         // sort the list of files (optional)
@@ -86,5 +90,12 @@ public class Compile extends Thread
         }
     }
 
+
+    public void setFileName(String filen){
+        this.filen= filen;
+    }
+    public static String getFileName(){
+        return filen;
+    }
 
 }

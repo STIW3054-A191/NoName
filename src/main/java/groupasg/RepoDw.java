@@ -8,8 +8,15 @@ import java.nio.file.Paths;
 
 public class RepoDw {
     String link;
+    int count=1;
     RepoDw(String link){
         this.link=link;
+    }
+    RepoDw(){
+    }
+
+    int getCount(){
+        return count++;
     }
 
     public String getLink() {
@@ -37,6 +44,8 @@ public class RepoDw {
                System.out.println("Cloning "+link+" into "+link);
                Git.cloneRepository().setURI(link).setDirectory(Paths.get(cloneDirectoryPath).toFile()).call();
                System.out.println("Completed Cloning");
+
+               count++;
                    Thread.sleep(1000);}
                catch (InterruptedException e) {
                    e.printStackTrace( );
